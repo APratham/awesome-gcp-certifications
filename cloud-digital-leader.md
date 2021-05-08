@@ -2,19 +2,19 @@
 
 ### About the exam
 
-| | | |
 | :---:         |     :---      |          :--- |
-| **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader | 
-| **Length:** | 3 hours in beta now; should be 2 hours in GA | 
-| **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
-| **Recommended experience:** | No experience required. | 
-| **Official Practice Exam:** | Not Available Yet | 
+| **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader |
+| **Length:** | 3 hours in beta now; should be 2 hours in GA |
+| **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. |
+| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. |
+| **Recommended experience:** | No experience required. |
+| **Official Practice Exam:** | Not Available Yet |
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 2021/05 | [A quick review of the new Cloud Digital Leader (beta)](https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/) | Hifzullah Celik |
+| 2021/05 | [Why you should take the Google Cloud Digital Leader Certification](https://medium.com/@APratham/why-you-should-take-the-google-cloud-digital-leader-certification-8788ddaeff08) | Antariksh Pratham |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
