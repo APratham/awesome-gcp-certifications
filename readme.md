@@ -67,6 +67,7 @@ These references are useful across all certifications.
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Official Icons and Sample Diagrams](https://cloud.google.com/icons) | Google Cloud |
+| | [Cloud Architecture Center<sup>BETA</sup>](https://cloud.google.com/architecture) | Google Cloud |
 | | [Weekly Newsletter](https://www.gcpweekly.com/newsletter/) | Zdenko Hrček |
 | | [Forum for certified people (invite only)](https://www.cloudconnectcommunity.com/ccc/ls/community/google-cloud-certifications) | |
 | | [Google Cloud Certified Credential Holder Directory (voluntary list)](https://googlecloudcertified.credential.net/) | |
@@ -74,7 +75,7 @@ These references are useful across all certifications.
 | 2019/04 | [Google Cloud Platform Authorized Trainer](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61) | Sathish VJ |
 
 ### Best Practices
-| Title | Link | 
+| Title | Link |
 | :---:         |     :---      |
 | AI Hub Data Preprocesing | https://aihub.cloud.google.com/p/products%2F31bf71d8-d513-4926-92dc-23b2f913afce |
 | Anthos Environ Requirements | https://cloud.google.com/anthos/multicluster-management/environs/best-practices |
@@ -179,4 +180,3 @@ These references are useful across all certifications.
 	- Anything that compromises the integrity of the exam.
 - When one of my blog posts leaked some exam info, I was contacted by the Google Certifications Team.
 - If you find any posts that I've listed which might be a concern, please let me and also the original authors know.
-
