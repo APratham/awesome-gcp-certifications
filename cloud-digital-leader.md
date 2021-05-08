@@ -2,7 +2,26 @@
 
 ### About the exam
 
-| :---:         |     :---      |          :--- |
+
+|-|-|
+| So| bold| 
+| and | it looks | 
+
+<table align="center">
+    <tr>
+        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text</td>
+        <td align="center">More text</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
+</table>
+
+| **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader |
+| :---:         |     :---      |          
 | **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader |
 | **Length:** | 3 hours in beta now; should be 2 hours in GA |
 | **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. |
@@ -39,7 +58,7 @@
 |  Title/Link |
 | :---:         |
 | [Google Cloud Solutions](https://cloud.google.com/solutions) |
-| [Cloud Adoption Framework](https://cloud.google.com/adoption-framework) |
+| [Cloud Adoption Framework](https://cloud.google.com/adoption-framework) ||
 | [Cost Management Blog](https://cloud.google.com/blog/topics/cost-management) |
 
 ### Qwiklabs Links
