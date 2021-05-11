@@ -3,31 +3,32 @@
 ### About the exam
 
 
-|-|-|
-| So| bold| 
-| and | it looks | 
-
-<table align="center">
+<table>
     <tr>
-        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text</td>
-        <td align="center">More text</td>
+        <td align="center">**Official Link:**</td>
+        <td align="center">https://cloud.google.com/certification/cloud-digital-leader</td>
     </tr>
     <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
+        <td align="center">**Length:**</td>
+        <td align="center">3 hours in beta now; should be 2 hours in GA</td>
+    </tr>
+    <tr>
+        <td align="center">**Registration fee:**</td>
+        <td align="center">$99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity.</td>
+    </tr> 
+    <tr>
+        <td align="center">**Exam format:**</td>
+        <td align="center">Multiple choice and multiple select, taken in person at a test center or online.</td>
+    </tr>
+    <tr>
+        <td align="center">**Recommended experience:**</td>
+        <td align="center">No experience required</td>
+    </tr>
+    <tr>
+        <td align="center">**Official Practice Exam:**</td>
+        <td align="center">Not Available Yet</td>
     </tr>
 </table>
-
-| **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader |
-| :---:         |     :---      |          
-| **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader |
-| **Length:** | 3 hours in beta now; should be 2 hours in GA |
-| **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. |
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. |
-| **Recommended experience:** | No experience required. |
-| **Official Practice Exam:** | Not Available Yet |
 
 ### Posts
 | Published | Title/Link | Author |
