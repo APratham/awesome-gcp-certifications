@@ -5,28 +5,28 @@
 
 <table>
     <tr>
-        <td align="center">**Official Link:**</td>
-        <td align="center">https://cloud.google.com/certification/cloud-digital-leader</td>
+        <td><b>Official Link:</b></td>
+        <td>https://cloud.google.com/certification/cloud-digital-leader</td>
     </tr>
     <tr>
-        <td align="center">**Length:**</td>
-        <td align="center">3 hours in beta now; should be 2 hours in GA</td>
+        <td><b>Length:</b></td>
+        <td>3 hours in beta now; should be 2 hours in GA</td>
     </tr>
     <tr>
-        <td align="center">**Registration fee:**</td>
-        <td align="center">$99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity.</td>
-    </tr> 
-    <tr>
-        <td align="center">**Exam format:**</td>
-        <td align="center">Multiple choice and multiple select, taken in person at a test center or online.</td>
+        <td><b>Registration fee:</b></td>
+        <td>$99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity.</td>
     </tr>
     <tr>
-        <td align="center">**Recommended experience:**</td>
-        <td align="center">No experience required</td>
+        <td><b>Exam format:</b></td>
+        <td>Multiple choice and multiple select, taken in person at a test center or online.</td>
     </tr>
     <tr>
-        <td align="center">**Official Practice Exam:**</td>
-        <td align="center">Not Available Yet</td>
+        <td><b>Recommended experience:</b></td>
+        <td>No experience required</td>
+    </tr>
+    <tr>
+        <td><b>Official Practice Exam:</b></td>
+        <td>Not Available Yet</td>
     </tr>
 </table>
 
